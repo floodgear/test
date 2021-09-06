@@ -1,1 +1,1 @@
-# this is a test repository in order to get familir with github
+# this is a test repository in order to get familiar with github
